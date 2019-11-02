@@ -1,16 +1,16 @@
 # Insectoids - Optometric game
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Coffei/insectoids/master/assets/icon.png" alt="Insectoids" height="120" />
+	<img src="https://raw.githubusercontent.com/Coffei/insectoids/master/assets/icon.png" alt="Insectoids" height="200" />
 </p>
 
 Simple Android game written in [React Native Game
-Engine][https://github.com/bberak/react-native-game-engine]. It is a simple catch 'em up game where
+Engine](https://github.com/bberak/react-native-game-engine). It is a simple catch 'em up game where
 you have to catch as many insects as you can. The game is intended for kids with eye disorders, the
 background is intentionally difficult on the eyes and forces the eyes to "work more" and therefore
 helps to exercise them.
 
-The game uses [React Native][https://facebook.github.io/react-native/] and [Expo][https://expo.io/]
+The game uses [React Native](https://facebook.github.io/react-native/) and [Expo](https://expo.io/)
 which make writing and building the app a breeze.
 
 ## How did it go?
