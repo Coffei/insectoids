@@ -29,3 +29,10 @@ removing that helps, but there are still lags from time to time even without ani
 First a disclaimer, I am NOT a doctor, nor have I discussed this app with one. However, this game
 uses basic principles that are used in professional optometric games. Unfortunately, these games
 are not available for purchase or are quite expensive, so I decided to write something similar.
+
+## Credits
+
+The graphics were found and downloaded from [Open Game Art](https://opengameart.org). Namely I would
+like to thank https://bevouliin.com/ for sharing his/her awesome work online for free.
+
+
